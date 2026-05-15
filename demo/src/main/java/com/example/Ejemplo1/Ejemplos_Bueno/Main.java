@@ -1,4 +1,4 @@
-package com.example.Ejemplos_Buenos;
+package com.example.Ejemplo1.Ejemplos_Bueno;
 
 interface Printer {
     void print();

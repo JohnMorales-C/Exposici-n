@@ -1,4 +1,4 @@
-package com.example.Ejemplos_Malos;
+package com.example.Ejemplo1.Ejemplos_Malo;
 
 interface Machine {
     void print();
