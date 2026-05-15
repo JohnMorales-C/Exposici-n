@@ -4,7 +4,7 @@
 
 * John Steban Morales Ceron
 * Carlos Alberto Obando Torrente
-* Juan Fernando Lenis
+* Fernando Lenis Acosta
 
 ---
 
